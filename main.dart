@@ -1,7 +1,7 @@
 import "dart:io";
 
+ // Function to calculate total price
 int calculateTotalPrice(int quantity, int unitPrice) {
-  // Function to calculate total price
   return quantity * unitPrice;
 }
 
